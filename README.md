@@ -14,5 +14,5 @@ El proyecto consiste en una app desarrollada en kotlin que incorpora un contador
 ✔ Uso adecuado de mecanismos de navegación en Jetpack Compose.
 
 ## Conclusión
-El proyecto cumple con todos los objetivos evaluables, garantizando una arquitectura modular y eficiente, y asegurando una experiencia fluida para el usuario.
+El proyecto cumple con todos los objetivos evaluables
 
